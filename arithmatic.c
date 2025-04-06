@@ -12,6 +12,6 @@ int main()
     printf("Difference: %d\n", diff);
     printf("Product: %d\n", prod);
     printf("Division: %d\n", div);
-    // printf("Modulus: %d\n", mod);
+    printf("Modulus: %d\n", mod);
     return 0;
 }
