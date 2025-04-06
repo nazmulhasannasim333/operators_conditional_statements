@@ -8,8 +8,8 @@ int main()
     int mul = a * b;
     int div = a / b;
     int mod = a % b;
-    printf("Sum: %d\n", sum);
-    printf("Substraction: %d\n", sub);
+    printf("Summation: %d\n", sum);
+    printf("Subtraction: %d\n", sub);
     printf("Multiplication: %d\n", mul);
     printf("Division: %d\n", div);
     printf("Modulus: %d\n", mod);

@@ -1,5 +1,5 @@
 Sum: 28
-Difference: 12
-Product: 160
+Subtraction: 12
+Multiplication: 160
 Division: 2
 Modulus: 4
