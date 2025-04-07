@@ -1,5 +1,1 @@
-Sum: 28
-Subtraction: 12
-Multiplication: 160
-Division: 2
-Modulus: 4
+there is no condition met
